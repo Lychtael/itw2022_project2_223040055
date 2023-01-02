@@ -1,0 +1,31 @@
+body {
+  background-color: #dddfe0;
+  font-family: "Annie Use Your Telescope", cursive;
+}
+h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 2.5rem;
+}
+.jumbotron h1 {
+  font-size: 7rem;
+}
+.jumbotron {
+  padding: 5rem;
+  height: 100vh;
+  background-image: url(../images/2021-12-20_15-56-23-088_Best\ so\ far.png);
+  background-size: cover;
+  background-position: bottom;
+}
+section {
+  padding-top: 5rem;
+}
+.navbar-brand {
+  font-size: 35px;
+  font-family: "Hanalei Fill", cursive;
+}
+nav ul li a {
+  font-family: "Playfair Display", serif;
+}
+footer {
+  font-family: "Playfair Display", serif;
+}
